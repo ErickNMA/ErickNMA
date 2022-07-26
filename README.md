@@ -63,6 +63,8 @@
     <img Align="center" alt = "Windows" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
 
+<br>
+
 ### Linguagens e Recursos:
 <div style="display: inline_block">
     <img Align="center" alt = "C" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
