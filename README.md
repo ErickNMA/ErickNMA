@@ -11,7 +11,7 @@
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ErickNMA&show_icons=true&theme=dracula)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNMA&theme=dracula)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNMA&layout=compact&theme=dracula)
 
 ![Work In Progress](https://github-readme-stats.vercel.app/api/pin/?username=ErickNMA&repo=CoposCV&theme=dracula)]
 
