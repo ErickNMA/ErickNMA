@@ -27,6 +27,8 @@
 
 - 🏷️ 6º Período
 
+- 🤖 Grupo PET - Engenharia Mecatrônica
+
 - 🏢 CEFET - Campus V
 
 - 📌 Divinópolis - MG
