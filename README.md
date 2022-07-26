@@ -2,8 +2,8 @@
 
 ---
 
-## ➡️ Graduando em Engenharia Mecatrônica ⬅️
-## ➡️ Fascinado por robótica, controle e programação ⬅️
+### 🎓 Graduando em Engenharia Mecatrônica 🎓
+### ➡️ Fascinado por ROBÓTICA, CONTROLE e PROGRAMAÇÃO ⬅️
 
 ---
 
