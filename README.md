@@ -1,14 +1,25 @@
 # Olá, meu nome é Erick! 🤓
 
-<br>
+---
+
+## ➡️ Graduando em Engenharia Mecatrônica ⬅️
+## ➡️ Fascinado por robótica, controle e programação ⬅️
 
 ---
 
-## Graduando em Engenharia Mecatrônica, fascinado por: Robótica, Controle e Programação. 
-
 ---
 
-<br>
+<div>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ErickNMA&show_icons=true&theme=dracula&include_all_commits=true">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNMA&layout=compact&theme=dracula&include_all_commits=true">
+</div>
+
+### (Main) Work in progress:
+<div>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickNMA&repo=CoposCV&theme=dracula">
+</div>
+
+---
 
 ---
 
@@ -22,8 +33,6 @@
 
 ---
 
-<br>
-
 ---
 
 ### Contato:
@@ -35,26 +44,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/erick.nathan.7796)
 
 ---
-
-<br>
-
----
-
-<div>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ErickNMA&show_icons=true&theme=dracula&include_all_commits=true">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNMA&layout=compact&theme=dracula&include_all_commits=true">
-</div>
-
-<br>
-
-### (Main) Work in progress:
-<div>
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickNMA&repo=CoposCV&theme=dracula">
-</div>
-
----
-
-<br>
 
 ---
 
@@ -73,8 +62,6 @@
     <img Align="center" alt = "VS Code" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img Align="center" alt = "Windows" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
-
-<br>
 
 ### Linguagens e Recursos:
 <div style="display: inline_block">
