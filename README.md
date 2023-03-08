@@ -25,7 +25,7 @@
 
 - [📋 Lattes](http://lattes.cnpq.br/4989299834875618)
 
-- 🏷️ 6º Período
+- 🏷️ 7º Período
 
 - 🤖 Grupo PET - Engenharia Mecatrônica
 
