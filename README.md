@@ -74,10 +74,10 @@
     <img Align="center" alt = "C++" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img Align="center" alt = "Python" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img Align="center" alt = "OpenCV" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">
-    <img Align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-    <img Align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-    <img Align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img Align="center" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+    <img Align="center" alt = "HTML" width=50 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+    <img Align="center" alt = "CSS" width=50 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+    <img Align="center" alt = "Java Script" width=50 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img Align="center" alt = "LaTeX" width=50 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 </div>
 
 <br>
