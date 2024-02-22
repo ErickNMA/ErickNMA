@@ -25,7 +25,7 @@
 
 - [📋 Lattes](http://lattes.cnpq.br/4989299834875618)
 
-- 🏷️ 8º Período
+- 🏷️ 9º Período
 
 - 🤖 Grupo PET - Engenharia Mecatrônica
 
@@ -38,7 +38,7 @@
 ---
 
 ### Contato:
-[![Email Principal](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ericknathancoro@hotmail.com)
+[![Email Principal](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erick.alves@aluno.cefetmg.br)
 [![Email Secundário](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericknathancoro123@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Erick%20NMA#2207)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-nathan-397868248)
