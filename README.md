@@ -1,9 +1,10 @@
-# Olá, meu nome é Erick! 🤓
+# Hello, my name is Erick! 🤓
 
 ---
 
-### 🎓 Graduando em Engenharia Mecatrônica 🎓
-### ➡️ Fascinado por ROBÓTICA, CONTROLE e PROGRAMAÇÃO ⬅️
+### 🎓 Mechatronics Engineer 🎓
+### 🚘 Desing Release Engineer at ACT Digital on behalf of Stellantis LATAM 🚘
+### ➡️ Amazed by robotics, systems control and programming ⬅️
 
 ---
 
@@ -24,16 +25,6 @@
 ---
 
 - [📋 Lattes](http://lattes.cnpq.br/4989299834875618)
-
-- 🏷️ 9º Período
-
-- 🤖 Grupo PET - Engenharia Mecatrônica
-
-- 🏢 CEFET - Campus V
-
-- 📌 Divinópolis - MG
-
----
 
 ---
 
