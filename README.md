@@ -27,10 +27,11 @@
 - [📋 Lattes](http://lattes.cnpq.br/4989299834875618)
 
 ---
+---
 
-### Contato:
-[![Email Principal](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erick.alves@aluno.cefetmg.br)
-[![Email Secundário](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericknathancoro123@gmail.com)
+### Contact:
+[![Corporate Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erick.martins@external.stellantis.com)
+[![Personal Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericknathancoro@hotmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Erick%20NMA#2207)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-nathan-397868248)
 [![Whats App](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534999830883)
@@ -41,7 +42,7 @@
 
 ---
 
-### Plataformas:
+### Platforms:
 <div style="display: inline_block">
     <img Align="center" alt = "Arduino" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
     <img Align="center" alt = "Debian" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg">
@@ -59,7 +60,7 @@
 
 <br>
 
-### Linguagens e Recursos:
+### Languages & Resources:
 <div style="display: inline_block">
     <img Align="center" alt = "C" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img Align="center" alt = "C++" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
