@@ -4,7 +4,7 @@
 
 ### 🎓 Mechatronics Engineer 🎓
 ### 🚘 Desing Release Engineer at ACT Digital on behalf of Stellantis LATAM 🚘
-### ➡️ Amazed by robotics, systems control and programming ⬅️
+### ➡️ Amazed by robotics, control systems and programming ⬅️
 
 ---
 
