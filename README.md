@@ -17,7 +17,7 @@
 
 ### (Main) Work in progress:
 <div>
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickNMA&repo=robotic-gripper&theme=dracula">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickNMA&repo=PFC&theme=dracula">
 </div>
 
 ---
